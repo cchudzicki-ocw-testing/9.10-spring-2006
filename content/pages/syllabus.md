@@ -14,7 +14,7 @@ This course explores the cognitive and neural processes that support attention, 
 Textbook
 --------
 
-There are no required texts for this course; however, there is an extensive {{< resource_link 2830bb6e-bab2-b2e8-7290-4413ab0b906f "reading list" >}} of primary research literature.
+There are no required texts for this course; however, there is an extensive {{% resource_link 2830bb6e-bab2-b2e8-7290-4413ab0b906f "reading list" %}} of primary research literature.
 
 Grading
 -------
