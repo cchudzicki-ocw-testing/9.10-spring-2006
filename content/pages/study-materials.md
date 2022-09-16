@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The study materials section provides a dissection guide and study questions
+  on various topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
